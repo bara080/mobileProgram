@@ -35,15 +35,15 @@ Make sure you have the following installed:
 
 
 
-##Usage
+## Usage
 
 Add a new goal by entering a description and pressing the "Add Goal" button.
 View the list of added goals.
 Delete a goal by selecting the corresponding delete option.
 
-##Screenshots
+## Screenshot
 
-##Acknowledgments
+## Acknowledgments
 
 Special thanks to the React Native and Expo communities.
 
